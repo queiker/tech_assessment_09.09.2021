@@ -5,10 +5,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Ants\" />
-    <Folder Include="ExtensionMethods\" />
-    <Folder Include="Utilities\" />
-  </ItemGroup>
-
 </Project>
