@@ -21,15 +21,15 @@ namespace LifeOfAnts.Utilities
             {
                 return false;
             }
-            if(obj is Position position)
+
+            if (obj is Position position)
             {
-                return this.X == Position.X && this.Y == position.Y;
+                return this.X == position.X && this.Y == position.Y;
             }
             else
             {
                 return false;
             }
-            
         }
 
         public static Position Zero => new Position(0, 0);

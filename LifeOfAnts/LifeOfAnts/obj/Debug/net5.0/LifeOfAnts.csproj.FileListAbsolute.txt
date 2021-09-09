@@ -1,0 +1,5 @@
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.csproj.AssemblyReference.cache
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.AssemblyInfoInputs.cache
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.AssemblyInfo.cs
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.csproj.CoreCompileInputs.cache
