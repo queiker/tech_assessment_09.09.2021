@@ -3,3 +3,14 @@ C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Deb
 C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.AssemblyInfoInputs.cache
 C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.AssemblyInfo.cs
 C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.csproj.CoreCompileInputs.cache
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\bin\Debug\net5.0\LifeOfAnts.exe
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\bin\Debug\net5.0\LifeOfAnts.deps.json
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\bin\Debug\net5.0\LifeOfAnts.runtimeconfig.json
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\bin\Debug\net5.0\LifeOfAnts.runtimeconfig.dev.json
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\bin\Debug\net5.0\LifeOfAnts.dll
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\bin\Debug\net5.0\ref\LifeOfAnts.dll
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\bin\Debug\net5.0\LifeOfAnts.pdb
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.dll
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\ref\LifeOfAnts.dll
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.pdb
+C:\Users\queiker\source\tech_assessment_09.09.2021\LifeOfAnts\LifeOfAnts\obj\Debug\net5.0\LifeOfAnts.genruntimeconfig.cache

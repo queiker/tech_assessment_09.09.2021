@@ -7,11 +7,8 @@ using LifeOfAnts.Ants;
 using LifeOfAnts.ExtensionMethods;
 using LifeOfAnts.Utilities;
 
-
-
 namespace LifeOfAnts
 {
-  
         public class Colony
         {
             public int Width { get; }
@@ -108,11 +105,11 @@ namespace LifeOfAnts
 
                     if (i == 0)
                     {
-                        sb.Append($"{row}|  Queen Mating Mood: {Queen.MatingMood}\n");
+                        sb.Append($"{row}|  queen mating mood: {Queen.MatingMood}\n");
                     }
                     else if (i == 1 && !string.IsNullOrEmpty(said))
                     {
-                        sb.Append($"{row}|  Drone said: {said}\n");
+                        sb.Append($"{row}|  drone said: {said}\n");
                     }
                     else
                     {
@@ -151,25 +148,25 @@ namespace LifeOfAnts
                 {
                     if (charSb == 'W')
                     {
-                        Console.ForegroundColor = ConsoleColor.DarkBlue;
+                        Console.ForegroundColor = ConsoleColor.Blue;
                         Console.Write(charSb);
                         Console.ResetColor();
                     }
                     else if (charSb == 'S')
                     {
-                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.Write(charSb);
                         Console.ResetColor();
                     }
                     else if (charSb == 'D')
                     {
-                        Console.ForegroundColor = ConsoleColor.DarkMagenta;
+                        Console.ForegroundColor = ConsoleColor.Green;
                         Console.Write(charSb);
                         Console.ResetColor();
                     }
                     else if (charSb == 'Q')
                     {
-                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                        Console.ForegroundColor = ConsoleColor.Red;
                         Console.Write(charSb);
                         Console.ResetColor();
                     }

@@ -25,7 +25,5 @@ namespace LifeOfAnts.Utilities
 
             return (drones, soldiers, workers);
         }
-
-
     }
 }

@@ -128,6 +128,4 @@ namespace LifeOfAnts.Ants
         }
     }
 
-
-
 }

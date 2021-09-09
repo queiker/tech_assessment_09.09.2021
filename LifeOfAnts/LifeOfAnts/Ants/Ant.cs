@@ -12,15 +12,15 @@ namespace LifeOfAnts.Ants
 {
     public abstract class Ant
     {
-        public Position position{ get; protected set; }
-        public Direction direction { get; protected set; }
-        public Colony colony { get; }
+        public Position Position { get; protected set; }
+        public Direction Direction { get; protected set; }
+        public Colony Colony { get; }
 
         public Ant(Position position, Direction direction, Colony colony)
         {
-            position = position;
-            direction = direction;
-            colony = colony;
+            Position = position;
+            Direction = direction;
+            Colony = colony;
         }
 
         public abstract void Move();

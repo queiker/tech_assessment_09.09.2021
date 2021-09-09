@@ -74,12 +74,15 @@ namespace LifeOfAnts.ExtensionMethods
         public static Direction GetRandomDirection()
         {
             Random random = new Random();
+
             Direction randomDirection = (Direction)random.Next(0, 4);
+
             return randomDirection;
         }
 
         public static void ClearPositionList()
         {
+
             _positions.Clear();
         }
     }
